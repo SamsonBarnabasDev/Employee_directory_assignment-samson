@@ -1,6 +1,6 @@
 /**
  * Mock employee data used for testing and demonstration purposes.
- * Each employee object contains id, firstName, lastName, email, department, and role.
+ * Each employee object contains id, firstName, lastName, email, department, and role....
  */
 
 const mockEmployees = [
