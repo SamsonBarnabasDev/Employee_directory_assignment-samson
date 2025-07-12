@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     /**
      * Render employees for the current page
-     * @param {Array} employees - List of employees to render
+     * @param {Array} employees - List of employees to render--
      */
     function renderEmployees(employees) {
         // Clear the container before rendering
